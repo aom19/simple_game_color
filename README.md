@@ -1,5 +1,7 @@
 # Color Game 
+
 ### Select a color that corresponds to it’s  rgb format.
+### Built with HTML , CSS , JS
 
 # Mode 
 ### Easy
